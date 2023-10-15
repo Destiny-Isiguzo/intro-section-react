@@ -1,0 +1,34 @@
+.hero__wrapper {
+  margin-block-start: 1rem;
+  margin-block-end: 7rem;
+}
+
+.hero__h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero__p {
+  max-width: 20rem;
+  margin: auto;
+  color: hsl(0, 0%, 41%);
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.hero__btn {
+  color: hsl(0, 0%, 98%);
+  background-color: black; 
+  padding: 0.7rem 1rem;
+  border-radius: 0.6rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin-bottom: 3.5rem;
+}
+
+.comp__logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
